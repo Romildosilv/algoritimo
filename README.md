@@ -1,0 +1,2 @@
+# algoritimo
+Exame nota
